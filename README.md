@@ -14,23 +14,11 @@ This repository contains the code, models, and data processing workflows for our
 │   ├── 3_masking.ipynb               # Training with Masked Language Model augmentation
 │   ├── 4_back_translation.ipynb      # Training with Round Trip Back Translation
 │
-├── data/
-│   ├── raw/                          # Unprocessed BRIGHTER dataset splits
-│   ├── processed/                    # Preprocessed & multi-hot encoded data
-│
-├── models/                           # Saved fine-tuned model checkpoints
-│
-├── utils/
-│   ├── data_loader.py                # Data loading, splitting, encoding
-│   ├── augmentation.py               # Core augmentation functions
-│
 ├── reports/
 │   ├── slides.pdf                    # Final presentation slides
 │   ├── report.pdf                    # Final project writeup or paper (optional)
 │
 ├── README.md                         # Project overview and instructions
-├── requirements.txt                  # Python dependencies
-└── run.sh                            # Shell script to reproduce training from CLI
 ```
 
 ---
@@ -46,20 +34,6 @@ All experiments are conducted using the **Davlan/afro-xlmr-small** transformer m
 
 ---
 
-## 🛠️ Requirements
-
-Before running the code, create a virtual environment and install dependencies:
-
-```bash
-python -m venv env
-source env/bin/activate  # or .\env\Scripts\activate on Windows
-pip install -r requirements.txt
-```
-
-> Requires Python 3.8+, PyTorch 1.13+, HuggingFace Transformers, Datasets, fastText, and sacreBLEU
-
----
-
 ## 🚀 How to Run
 
 You can execute each experiment by opening the corresponding notebook under `/notebooks`:
@@ -71,14 +45,6 @@ You can execute each experiment by opening the corresponding notebook under `/no
 | Masked Language Model Augmentation | `3_masking.ipynb`            |
 | Back Translation Augmentation    | `4_back_translation.ipynb`    |
 
-Alternatively, you can run experiments from terminal:
-
-```bash
-bash run.sh baseline
-bash run.sh random_insertion
-bash run.sh masking
-bash run.sh back_translation
-```
 
 ---
 
@@ -86,8 +52,6 @@ bash run.sh back_translation
 
 - 📽️ [Watch our project video](https://example.com/project-video)  
 - 📑 [View our final slides](https://example.com/slides)
-
-*(Replace links with your actual URLs)*
 
 ---
 
