@@ -34,6 +34,25 @@ All experiments are conducted using the **Davlan/afro-xlmr-small** transformer m
 
 ---
 
+## 🛠️ Requirements
+
+To set up the environment, ensure you have Python 3.8–3.10 installed, then install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+In addition, your system must support the following CLI tools for downloading and extracting fastText vectors:
+
+- `wget`
+- `unzip`
+
+These can be installed via your package manager (e.g., `apt`, `brew`, or `choco` depending on OS).
+
+> 💡 Pre-trained word vectors for Swahili, Hausa, and Afrikaans are downloaded directly from [fastText](https://fasttext.cc/docs/en/pretrained-vectors.html).
+
+---
+
 ## 🚀 How to Run
 
 You can execute each experiment by opening the corresponding notebook under `/notebooks`:
