@@ -67,4 +67,4 @@ You can execute each experiment by opening the corresponding notebook under `/no
 
 ## 🤝 Acknowledgements
 
-This project was developed as part of a research initiative at the **University of Pretoria** and contributes toward inclusive NLP for African languages. The BRIGHTER dataset is used under **CC-BY 4.0**, and the base model is `Davlan/afro-xlmr-small`.
+This project was developed as part of a research initiative at the **University of Pretoria** and contributes toward inclusive NLP for African languages. The BRIGHTER dataset is used under **CC-BY 4.0**, and the base model is [`Davlan/afro-xlmr-small`](https://huggingface.co/Davlan/afro-xlmr-small).
