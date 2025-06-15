@@ -67,4 +67,17 @@ You can execute each experiment by opening the corresponding notebook under `/no
 
 ## 🤝 Acknowledgements
 
-This project was developed as part of a research initiative at the **University of Pretoria** and contributes toward inclusive NLP for African languages. The BRIGHTER dataset is used under **CC-BY 4.0**, and the base model is [`Davlan/afro-xlmr-small`](https://huggingface.co/Davlan/afro-xlmr-small).
+
+This project was developed as part of a research initiative at the **University of Pretoria** and contributes toward inclusive NLP for African languages.
+
+We gratefully acknowledge the following resources:
+
+- The **[BRIGHTER dataset](https://arxiv.org/abs/2502.11926)** for providing emotion-annotated multilingual data.
+- The [**`Davlan/afro-xlmr-small`**](https://huggingface.co/Davlan/afro-xlmr-small) model for multilingual transformer support on African languages.
+- **[Helsinki-NLP’s Opus-MT](https://huggingface.co/Helsinki-NLP)** models for back translation for Afrikaans and Hausa.
+- **[Meta’s NLLB-200](https://huggingface.co/facebook/nllb-200-distilled-600M)** for high-quality translation support for Swahili.
+- **[LaBSE (Language-Agnostic BERT Sentence Embedding)](https://huggingface.co/sentence-transformers/LaBSE)** model for measuring semantic similarity across multilingual sentences.
+- **[fastText word embeddings](https://fasttext.cc/docs/en/pretrained-vectors.html)** by Grave et al. (2018) for providing pre-trained word vectors used in our Random Insertion and semantic similarity filtering steps.
+Citation: Grave, E., Bojanowski, P., Gupta, P., Joulin, A., & Mikolov, T. (2018). Learning Word Vectors for 157 Languages. arXiv:1802.06893 [The Paper](https://arxiv.org/pdf/1802.06893)
+
+The BRIGHTER dataset is used under **CC-BY 4.0**, and the models listed above are used under their respective licenses provided by the HuggingFace Model Hub.
