@@ -6,3 +6,18 @@
 
 <div align="center">
 
+<h3 align="center">Intro
+</h3>
+
+| Resource                             | Description                                                                                                                         |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| [Documentation]()                                                                                                                             | Details on project         |
+| [Report]()                                                                                                                                    | Finalised Report        |
+| [Baseline Model]()                                                                                                             | Base Model        |
+| [Augmentation Models]()                                                                                                        | Augmentation methods        |
+
+<h1 align="center"> Demo Recoreded </h1>
+
+|                         | Video | Slides |
+|---------------------------------|---------------------------------|---------------------------------|
+| NLP Project | [Video]() | [Slides]() |
