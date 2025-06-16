@@ -36,17 +36,6 @@ All experiments are conducted using the **Davlan/afro-xlmr-small** transformer m
 
 ## 👥 Project Contributors
 
-| Name                   | Student Number | Links |
-|------------------------|----------------|-------|
-| **Mignon Erasmus**     | u22492586      | <a href="https://github.com/johane-b" style="text-decoration: none; margin-right: 10px; display: inline-block; vertical-align: middle;">
-        <img src="https://skillicons.dev/icons?i=github"/>
-      </a>
-      <a href="https://www.linkedin.com/in/johane-breytenbach/" style="text-decoration: none; margin-right: 10px; display: inline-block; vertical-align: middle;">
-        <img src="https://skillicons.dev/icons?i=linkedin">
-      </a> |
-| **Caitlin Simon**      | u22608495       | [GitHub](https://github.com/caitlinsimon) • [LinkedIn](https://www.linkedin.com/in/caitlinsimon) |
-| **Xadrian van Heerdan**| u22699572       | [GitHub](https://github.com/xadrianvh) • [LinkedIn](https://www.linkedin.com/in/xadrianvh) |
-
 <table>
   <tr>
     <th>Name</th>
