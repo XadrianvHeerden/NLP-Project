@@ -103,7 +103,7 @@ These can be installed via your package manager (e.g., `apt`, `brew`, or `choco`
 
 ## 🚀 How to Run
 
-You can execute each experiment by opening the corresponding notebook under `/notebooks`:
+You can execute each experiment by opening the corresponding notebook under `/notebooks`,and run it using [Google Colab](https://colab.google/):
 
 | Task                              | Notebook Name                 |
 |----------------------------------|-------------------------------|
