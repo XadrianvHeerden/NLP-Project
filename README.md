@@ -16,7 +16,7 @@ This repository contains the code, models, and data processing workflows for our
 │
 ├── reports/
 │   ├── slides.pdf                    # Final presentation slides
-│   ├── report.pdf                    # Final project writeup or paper (optional)
+│   ├── COS760_Group8_FinalReport_DataAugmentation.pdf                    # Final project writeup or paper (optional)
 │
 ├── README.md                         # Project overview and instructions
 ├── requirements.txt                  # Python dependencies
