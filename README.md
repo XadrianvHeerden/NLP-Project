@@ -83,7 +83,7 @@ All experiments are conducted using the **Davlan/afro-xlmr-small** transformer m
 ---
 
 ## 🛠️ Requirements
-
+If you do not run this project on Google Colabs, the following is required for your python environment.
 To set up the environment, ensure you have Python 3.8–3.10 installed, then install the required packages:
 
 ```bash
