@@ -34,6 +34,65 @@ All experiments are conducted using the **Davlan/afro-xlmr-small** transformer m
 
 ---
 
+## 👥 Project Contributors
+
+| Name                   | Student Number | Links |
+|------------------------|----------------|-------|
+| **Mignon Erasmus**     | u22492586      | <a href="https://github.com/johane-b" style="text-decoration: none; margin-right: 10px; display: inline-block; vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=github"/>
+      </a>
+      <a href="https://www.linkedin.com/in/johane-breytenbach/" style="text-decoration: none; margin-right: 10px; display: inline-block; vertical-align: middle;">
+        <img src="https://skillicons.dev/icons?i=linkedin">
+      </a> |
+| **Caitlin Simon**      | u22608495       | [GitHub](https://github.com/caitlinsimon) • [LinkedIn](https://www.linkedin.com/in/caitlinsimon) |
+| **Xadrian van Heerdan**| u22699572       | [GitHub](https://github.com/xadrianvh) • [LinkedIn](https://www.linkedin.com/in/xadrianvh) |
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Student Number</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><strong>Mignon Erasmus</strong></td>
+    <td>u22492586</td>
+    <td>
+      <a href="https://github.com/MignonErasmus" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+      </a>
+      <a href="https://www.linkedin.com/in/mignon-erasmus-57202b266" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Caitlin Simon</strong></td>
+    <td>u22608495</td>
+    <td>
+      <a href="https://github.com/CaitMS" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+      </a>
+      <a href="http://www.linkedin.com/in/caitlin-simon-4a8757230" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Xadrian van Heerdan</strong></td>
+    <td>u22699572</td>
+    <td>
+      <a href="[https://github.com/xadrianvh](https://github.com/XadrianvHeerden)" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+      </a>
+      <a href="https://www.linkedin.com/in/xadrian-van-heerden-05635123b/" style="text-decoration: none;">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠️ Requirements
 
 To set up the environment, ensure you have Python 3.8–3.10 installed, then install the required packages:
