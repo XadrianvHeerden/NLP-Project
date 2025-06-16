@@ -19,6 +19,7 @@ This repository contains the code, models, and data processing workflows for our
 │   ├── report.pdf                    # Final project writeup or paper (optional)
 │
 ├── README.md                         # Project overview and instructions
+├── requirements.txt                  # Python dependencies
 ```
 
 ---
