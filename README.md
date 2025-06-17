@@ -15,8 +15,8 @@ This repository contains the code, models, and data processing workflows for our
 │   ├── 4_back_translation.ipynb      # Training with Round Trip Back Translation
 │
 ├── reports/
-│   ├── slides.pdf                    # Final presentation slides
-│   ├── COS760_Group8_FinalReport_DataAugmentation.pdf                    # Final project writeup or paper (optional)
+│   ├── COS760 Presentation.pdf                          # Final presentation slides
+│   ├── COS760_Group8_FinalReport_DataAugmentation.pdf   # Final project writeup or paper (optional)
 │
 ├── README.md                         # Project overview and instructions
 ├── requirements.txt                  # Python dependencies
@@ -118,7 +118,7 @@ You can execute each experiment by opening the corresponding notebook under `/no
 
 ## 🎥 Presentation & Slides
 
-- 📽️ [Watch our project video](https://example.com/project-video)  
+- 📽️ [Watch our project video](https://drive.google.com/file/d/1yj14bI5OBzuBR2CyhExOL2UMzjpDok8R/view?usp=drive_link)  
 - 📑 [View our final slides](https://example.com/slides)
 
 ---
