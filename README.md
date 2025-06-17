@@ -119,7 +119,7 @@ You can execute each experiment by opening the corresponding notebook under `/no
 ## 🎥 Presentation & Slides
 
 - 📽️ [Watch our project video](https://drive.google.com/file/d/1yj14bI5OBzuBR2CyhExOL2UMzjpDok8R/view?usp=drive_link)  
-- 📑 [View our final slides](https://github.com/XadrianvHeerden/NLP-Project/blob/main/reports/COS760%20Presentation.pdf)
+- 📑 [View our final slides](https://www.canva.com/design/DAGqJGNT2fw/KPBKba1xt8RrzheGXs-J3Q/view?utm_content=DAGqJGNT2fw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf1d95244fb)
 
 ---
 
