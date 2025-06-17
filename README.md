@@ -133,7 +133,6 @@ You can execute each experiment by opening the corresponding notebook under `/no
 | Hausa     | 0.7690         | 0.7624         | 0.0865        | 0.6175           |
 | Swahili   | 0.4353         | 0.0879         | 0.1647        | 0.4443           |
 
----
 
 ### 📊 Table 2: Random Insertion Results
 
@@ -143,7 +142,6 @@ You can execute each experiment by opening the corresponding notebook under `/no
 | Hausa     | 0.7779 (+0.01)     | 0.7689 (+0.01)      | 0.0833 (–0.003)   | 0.6494 (+0.03)       |
 | Swahili   | 0.6883 (+0.25)     | 0.6360 (+0.55)      | 0.0959 (–0.069)   | 0.6477 (+0.20)       |
 
----
 
 ### 📊 Table 3: Masking Results
 
@@ -153,7 +151,6 @@ You can execute each experiment by opening the corresponding notebook under `/no
 | Hausa     | 0.7496 (–0.01)     | 0.7434 (–0.02)      | 0.0939 (+0.007)   | 0.6076 (–0.01)       |
 | Swahili   | 0.6221 (+0.19)     | 0.4878 (+0.40)      | 0.1201 (–0.045)   | 0.5330 (+0.09)       |
 
----
 
 ### 📊 Table 4: Back Translation Results
 
